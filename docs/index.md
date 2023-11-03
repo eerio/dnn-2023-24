@@ -7,7 +7,7 @@
 * Lab3: [lab3-optimizers](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
 * Lab4: 
     * [pytorch-tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-    * [lab4-mnist](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-3-mnist-again-student.ipynb)
+    * [lab4-mnist](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
 
 [# Homeworks]: #
 [# Additional materials]: #
