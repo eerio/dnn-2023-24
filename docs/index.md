@@ -8,6 +8,11 @@
 * Lab4: 
     * [pytorch-tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
     * [lab4-mnist](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
+* Lab5: [lab5-batchnorm-and-convnets](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-5-Batchrnorm-and-Convnets-student-version.ipynb)
+* Lab6:
+    * [goldfish-to-shark](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-6-goldfish-to-shark-student-version.ipynb)
+    * [visualization-by-occlusion](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-6-occlusion-student-version.ipynb)
+
 
 [# Homeworks]: 
 
