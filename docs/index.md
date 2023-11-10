@@ -9,9 +9,9 @@
     * [pytorch-tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
     * [lab4-mnist](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-4-MNIST-in-Pytorch-student-version.ipynb)
 
-[# Homeworks]: #
+[# Homeworks]: 
 
-* [Homework 1](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/dnn-2023-24/hw-1-revnet-student.ipynb
-), deadline 2023.11.27, 8:00am
+* [Homework 1](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/dnn-2023-24/hw-1-revnet-student.ipynb), deadline 2023.11.27, 8:00am
+
 [# Additional materials]: #
 [# Exam 2023 Practical part]: #
