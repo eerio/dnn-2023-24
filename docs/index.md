@@ -14,7 +14,7 @@
     * [visualization-by-occlusion](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-6-occlusion-student-version.ipynb)
 
 
-[# Homeworks]: 
+# Homeworks
 
 * [Homework 1](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw-1-revnet-student.ipynb), deadline 2023.11.27, 8:00am
 
