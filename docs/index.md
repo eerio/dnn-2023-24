@@ -15,6 +15,8 @@
 * Lab7:
     * [residual-block](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb)
     * [unet](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
+* Lab8:
+    * [CGAN](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
 
 
 # Homeworks
