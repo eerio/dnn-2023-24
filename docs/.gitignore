@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.venv
+*.xz
+mvtec_anomaly_detection
+results
