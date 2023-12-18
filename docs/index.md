@@ -19,6 +19,8 @@
     * [CGAN](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
 * Lab9:
     * [VAE](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-9-VAE-student-version.ipynb)
+* Lab10:
+    * [RNN](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
 
 
 # Homeworks
