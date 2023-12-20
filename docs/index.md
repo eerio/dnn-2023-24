@@ -27,6 +27,7 @@
 
 * [Homework 1](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw-1-revnet-student.ipynb), deadline 2023.11.27, 8:00am
 * [Homework 2](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw2-visual_anomaly_detection-student.ipynb), deadline 2023.12.19, 8:00am
+* [Homework 3](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw3-transformer-student.ipynb), deadline 2024.01.15, 8:00am
 
 [# Additional materials]: #
 [# Exam 2023 Practical part]: #
