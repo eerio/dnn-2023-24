@@ -23,6 +23,8 @@
     * [RNN](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
 * Lab11:
     * DQN - part 0 of homework 4.
+* Lab12:
+    * [Policy Graidents](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-12-PG-student-version.ipynb)
 
 
 # Homeworks
