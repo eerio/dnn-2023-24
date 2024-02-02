@@ -21,6 +21,10 @@
     * [VAE](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-9-VAE-student-version.ipynb)
 * Lab10:
     * [RNN](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
+* Lab11:
+    * DQN - part 0 of homework 4.
+* Lab12:
+    * [Policy Graidents](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/DNN-Lab-12-PG-student-version.ipynb)
 
 
 # Homeworks
@@ -28,6 +32,7 @@
 * [Homework 1](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw-1-revnet-student.ipynb), deadline 2023.11.27, 8:00am
 * [Homework 2](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw2-visual_anomaly_detection-student.ipynb), deadline 2023.12.19, 8:00am
 * [Homework 3](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw3-transformer-student.ipynb), deadline 2024.01.15, 8:00am
+* [Homework 4](https://colab.research.google.com/github/mim-uw/dnn-2023-24/blob/master/docs/hw4-bbf-student.ipynb), deadline 2024.02.05, 8:00am (but 2024.02.02, 8:00am if you want to be eligible for an exam pass)
 
 [# Additional materials]: #
 [# Exam 2023 Practical part]: #
